@@ -158,7 +158,9 @@
   "/3kns/:filters?/:order?": [
     "xzzpig"
   ],
-  "/423down/:category/:type?": [],
+  "/423down/:category{.+}?": [
+    "nczitzk"
+  ],
   "/4gamers/": [
     "TonyRL"
   ],
@@ -1359,6 +1361,9 @@
   ],
   "/cuc/yz": [
     "niuyi1017"
+  ],
+  "/cuilingmag/:category?": [
+    "nczitzk"
   ],
   "/curiouscat/user/:id": [
     "lucasew"
